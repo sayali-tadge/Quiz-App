@@ -1,0 +1,44 @@
+{
+    "question": [
+      "Q1. Who developed Python Programming Language?",
+      "Q2. Which module in Python supports regular expressions?" ,
+      "Q3. Which of these in not a core data type?",
+      "Q4. Which of the following is not a complex number?",
+      "Q5. Which of the following is invalid?"
+    ],
+    "answer": [
+      3,
+      1,
+      4,
+      3,
+      4
+    ],
+    "options": [
+  
+      [ " Wick van Rossum",
+        " Rasmus Lerdorf",
+        " Guido van Rossum",
+        " Niene Stom"
+      ],
+      [ "re",
+        "regex",
+        "pyregex",
+        "none of the above"
+      ],
+      [ "Tuples",
+        "Dictionary",
+        "Lists",
+        "Class"
+      ],
+       ["k = 2 + 3j",
+        "k = complex(2, 3)",
+        "k = 2 + 3i",
+        "k = 2 + 3j"
+      ],
+      [ "_a = 1",
+        "__a = 1",
+        "__str__ = 1",
+        "none of the mentioned"
+      ]
+    ]
+  }
